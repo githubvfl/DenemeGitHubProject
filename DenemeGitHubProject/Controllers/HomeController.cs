@@ -23,6 +23,12 @@ namespace DenemeGitHubProject.Controllers
             return View();
         }
 
+        public IActionResult adsd()
+        {
+            return View();
+        }
+
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
