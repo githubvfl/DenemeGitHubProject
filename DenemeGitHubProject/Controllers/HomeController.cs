@@ -22,6 +22,10 @@ namespace DenemeGitHubProject.Controllers
         {
             return View();
         }
+        public IActionResult Privacy2()
+        {
+            return View();
+        }
 
         public IActionResult adsd()
         {
