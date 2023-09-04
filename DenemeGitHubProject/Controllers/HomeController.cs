@@ -22,6 +22,11 @@ namespace DenemeGitHubProject.Controllers
         {
             return View();
         }
+
+        public IActionResult Privacdsfy(int? id)
+        {
+            return View();
+        }
         public IActionResult Privacy2()
         {
             return View();
