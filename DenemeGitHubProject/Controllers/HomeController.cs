@@ -18,16 +18,18 @@ namespace DenemeGitHubProject.Controllers
             return View();
         }
 
+
         public IActionResult Privacy()
         {
             return View();
         }
 
-        public IActionResult Privacdsfy(int? id)
+        public IActionResult Privacy2()
         {
             return View();
         }
-        public IActionResult Privacy2()
+
+        public IActionResult Privacy3()
         {
             return View();
         }
